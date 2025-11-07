@@ -103,8 +103,8 @@ Sweta - IIT Patna M.Tech AI
 
 ## License
 
-This project is part of an academic assignment.
+This project is part of a Flam  assignment.
 
 ## Acknowledgments
 
-Built as part of the Web Development course assignment.
+Built as part of the Frontend Project assignment.
