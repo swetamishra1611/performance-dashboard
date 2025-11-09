@@ -2,7 +2,7 @@
 
 A high-performance, real-time data visualization dashboard built with Vue 3, TypeScript, and HTML5 Canvas. Handles 50,000+ data points at 60 FPS without using any charting libraries.
 
-![Dashboard Preview](dashboard-desktop.png)
+![Dashboard Preview](dashboard-desktop.jpeg)
 
 ## Features
 
@@ -17,11 +17,11 @@ A high-performance, real-time data visualization dashboard built with Vue 3, Typ
 
 | Metric | Target | Achieved |
 |--------|--------|----------|
-| FPS (10k points) | 60 fps | ✅ 60 fps |
-| FPS (50k points) | 30 fps | ✅ 60 fps |
-| Render Time | <100ms | ✅ 17.8ms |
-| Memory Usage | Stable | ✅ 42 MB |
-| Data Points | 10k+ | ✅ 50,000 |
+| FPS (10k points) | 60 fps |  60 fps |
+| FPS (50k points) | 30 fps |  60 fps |
+| Render Time | <100ms |  17.8ms |
+| Memory Usage | Stable |  42 MB |
+| Data Points | 10k+ |  50,000 |
 
 ## Setup Instructions
 
@@ -32,7 +32,7 @@ A high-performance, real-time data visualization dashboard built with Vue 3, Typ
 ### Installation
 
 1. Clone the repository:
-git clone <your-repo-url>
+git clone https://github.com/swetamishra1611/performance-dashboard
 cd performance-dashboard
 
 
@@ -80,10 +80,10 @@ http://localhost:5173/
 
 | Browser | Minimum Version | Tested |
 |---------|----------------|--------|
-| Chrome | 90+ | ✅ Chrome 120 |
-| Firefox | 88+ | ✅ Firefox 118 |
-| Safari | 14+ | ✅ Safari 17 |
-| Edge | 90+ | ✅ Edge 120 |
+| Chrome | 90+ | Chrome 120 |
+| Firefox | 88+ |  Firefox 118 |
+| Safari | 14+ |  Safari 17 |
+| Edge | 90+ | Edge 120 |
 
 **Note**: Older browsers may experience reduced performance due to Canvas API limitations.
 
@@ -191,13 +191,13 @@ Total: ~53 kB (gzipped: ~18 kB)
 ##  Screenshots
 
 ### Desktop View
-![Desktop View](dashboard-desktop.png)
+![Desktop View](dashboard-desktop.jpeg)
 
 ### Mobile View
-![Mobile View](dashboard-mobile.png)
+![Mobile View](dashboard-mobile.jpeg)
 
 ### Performance at 50k Points
-![Performance](performance-50k.png)
+![Performance](performance-50k.jpeg)
 
 ## What I DON'T Use
 
