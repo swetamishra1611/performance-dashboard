@@ -33,6 +33,7 @@ A high-performance, real-time data visualization dashboard built with Vue 3, Typ
 
 1. Clone the repository:
 git clone https://github.com/swetamishra1611/performance-dashboard
+
 cd performance-dashboard
 
 
@@ -196,6 +197,12 @@ Total: ~53 kB (gzipped: ~18 kB)
 ### Mobile View
 ![Mobile View](dashboard-mobile.jpeg)
 
+
+### Tablet View
+![Tablet View](dashboard-tablet.jpeg)
+
+
+
 ### Performance at 50k Points
 ![Performance](performance-50k.jpeg)
 
@@ -205,6 +212,11 @@ Total: ~53 kB (gzipped: ~18 kB)
 -  No blocking operations (RequestAnimationFrame)
 -  No memory leaks (proper cleanup)
 -  No anti-patterns (Vue 3 Composition API)
+
+
+Live Demo: [https://performance-dashboard-ashy.vercel.app]
+(https://performance-dashboard-ashy.vercel.app)
+
 
 
 
